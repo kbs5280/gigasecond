@@ -1,3 +1,5 @@
+NOTE: _This is a simple exercise I used to practice Ruby fundamentals._
+
 # Gigasecond
 
 Write a program that calculates the moment when someone has lived for 10^9 seconds.
